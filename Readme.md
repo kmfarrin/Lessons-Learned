@@ -1,5 +1,4 @@
-hello
-hello
+
 Things I have learned at Bloc.io
 
 1.CSS
